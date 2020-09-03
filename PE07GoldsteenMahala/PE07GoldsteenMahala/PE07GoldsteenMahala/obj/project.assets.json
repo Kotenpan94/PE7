@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\source\\repos\\PE07GoldsteenMahala\\PE07GoldsteenMahala\\PE07GoldsteenMahala.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\Documents\\GitHub\\PE7\\PE07GoldsteenMahala\\PE07GoldsteenMahala\\PE07GoldsteenMahala\\PE07GoldsteenMahala.csproj",
       "projectName": "PE07GoldsteenMahala",
-      "projectPath": "C:\\Users\\gabri\\source\\repos\\PE07GoldsteenMahala\\PE07GoldsteenMahala\\PE07GoldsteenMahala.csproj",
+      "projectPath": "C:\\Users\\gabri\\Documents\\GitHub\\PE7\\PE07GoldsteenMahala\\PE07GoldsteenMahala\\PE07GoldsteenMahala\\PE07GoldsteenMahala.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\source\\repos\\PE07GoldsteenMahala\\PE07GoldsteenMahala\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\Documents\\GitHub\\PE7\\PE07GoldsteenMahala\\PE07GoldsteenMahala\\PE07GoldsteenMahala\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
