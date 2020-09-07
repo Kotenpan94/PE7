@@ -1,0 +1,13 @@
+C:\Users\gabri\Documents\GitHub\PE7\PE07GoldsteenMahala\PE07GoldsteenMahala\PE07GoldsteenMahala\bin\Debug\netcoreapp3.1\PE07GoldsteenMahala.exe
+C:\Users\gabri\Documents\GitHub\PE7\PE07GoldsteenMahala\PE07GoldsteenMahala\PE07GoldsteenMahala\bin\Debug\netcoreapp3.1\PE07GoldsteenMahala.deps.json
+C:\Users\gabri\Documents\GitHub\PE7\PE07GoldsteenMahala\PE07GoldsteenMahala\PE07GoldsteenMahala\bin\Debug\netcoreapp3.1\PE07GoldsteenMahala.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\PE7\PE07GoldsteenMahala\PE07GoldsteenMahala\PE07GoldsteenMahala\bin\Debug\netcoreapp3.1\PE07GoldsteenMahala.runtimeconfig.dev.json
+C:\Users\gabri\Documents\GitHub\PE7\PE07GoldsteenMahala\PE07GoldsteenMahala\PE07GoldsteenMahala\bin\Debug\netcoreapp3.1\PE07GoldsteenMahala.dll
+C:\Users\gabri\Documents\GitHub\PE7\PE07GoldsteenMahala\PE07GoldsteenMahala\PE07GoldsteenMahala\bin\Debug\netcoreapp3.1\PE07GoldsteenMahala.pdb
+C:\Users\gabri\Documents\GitHub\PE7\PE07GoldsteenMahala\PE07GoldsteenMahala\PE07GoldsteenMahala\obj\Debug\netcoreapp3.1\PE07GoldsteenMahala.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\GitHub\PE7\PE07GoldsteenMahala\PE07GoldsteenMahala\PE07GoldsteenMahala\obj\Debug\netcoreapp3.1\PE07GoldsteenMahala.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\PE7\PE07GoldsteenMahala\PE07GoldsteenMahala\PE07GoldsteenMahala\obj\Debug\netcoreapp3.1\PE07GoldsteenMahala.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\PE7\PE07GoldsteenMahala\PE07GoldsteenMahala\PE07GoldsteenMahala\obj\Debug\netcoreapp3.1\PE07GoldsteenMahala.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\PE7\PE07GoldsteenMahala\PE07GoldsteenMahala\PE07GoldsteenMahala\obj\Debug\netcoreapp3.1\PE07GoldsteenMahala.dll
+C:\Users\gabri\Documents\GitHub\PE7\PE07GoldsteenMahala\PE07GoldsteenMahala\PE07GoldsteenMahala\obj\Debug\netcoreapp3.1\PE07GoldsteenMahala.pdb
+C:\Users\gabri\Documents\GitHub\PE7\PE07GoldsteenMahala\PE07GoldsteenMahala\PE07GoldsteenMahala\obj\Debug\netcoreapp3.1\PE07GoldsteenMahala.genruntimeconfig.cache
